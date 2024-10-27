@@ -21,6 +21,9 @@ A comprehensive web scraping framework featuring both static and dynamic content
 pip install scrapme
 ```
 
+Pypi.org ([https://pypi.org/project/loggerbot/](https://pypi.org/project/scrapme/))
+
+
 ## Quick Start
 
 ### Basic Usage (Static Content)
